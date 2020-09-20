@@ -1,1 +1,3 @@
 # Web3-Waves
+Repo for coursera Mastering Web3 with Waves course.
+Nothing of interest ...
