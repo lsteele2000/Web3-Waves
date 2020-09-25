@@ -1,0 +1,7 @@
+
+# ignore vim files
+*~
+.*.s??
+
+**/node_modules
+

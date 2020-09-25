@@ -1,0 +1,14 @@
+{
+  "name": "web_3_waves_week2",
+  "version": "0.1.0",
+  "description": "Second week stuff for the web3waves course",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
